@@ -1,2 +1,2 @@
 # Svenskaforsamlingar
-Test having a page for SVenska Församlingar
+Test having a page for Svenska Församlingar
