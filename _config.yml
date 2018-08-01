@@ -1,5 +1,8 @@
   style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
 
+title:            Svenska församlingar
+locale:           sv_sv
+url:              https://salgo60.github.io/Svenskaforsamlingar/
 
 # Outputting
 permalink: /:categories/:title/
