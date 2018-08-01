@@ -78,3 +78,8 @@ defaults:
       comments: # true
       share: true
       related: true
+theme: jekyll-theme-architect
+gem "github-pages", group: :jekyll_plugins
+title: Wikidata Svenska Församlingar 
+description: To make it easier to work with Wikidata object for Swedish Church parishes
+show_downloads: true
