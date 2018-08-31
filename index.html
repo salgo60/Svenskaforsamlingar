@@ -22,6 +22,31 @@
     <h1>Project - wmse-riksarkivet-tora</h1>
       <h2 style="display: none">Svenska Församlingar</h2>
     Project space <a href="https://phabricator.wikimedia.org/tag/wmse-riksarkivet-tora/">wmse-riksarkivet-tora</a> Task <a href="https://phabricator.wikimedia.org/T199784">T199784</a> "Wikidata cleaning Svenska Församlingar"
+
+    <h3>"Församling" - Swedish Church Parish</h3>
+       <h4>"Församlingar" and NAD status</h3>
+        <iframe src="https://goo.gl/CnWz8Z" referrerpolicy="origin" sandbox="allow-scripts allow-same-origin allow-popups" width="800" height="800"></iframe>
+       <h4>WD objects that need a coordinate</h3>
+        <iframe src="https://tinyurl.com/ydh2mnas" referrerpolicy="origin" sandbox="allow-scripts allow-same-origin allow-popups" width="800" height="400"></iframe>
+       <h4>Group by Administrative P131</h3>
+        <iframe src="https://tinyurl.com/ybhbrzt2" referrerpolicy="origin" sandbox="allow-scripts allow-same-origin allow-popups" width="800" height="400"></iframe>       
+       <h4>Coord, Församling and no NAD</h3>
+        <iframe src="https://tinyurl.com/y7m5acvs" referrerpolicy="origin" sandbox="allow-scripts allow-same-origin allow-popups" width="800" height="400"></iframe>
+       <h4>Församlingar with more "församlingskoder"</h3>
+       This concept means that one WD object is represented by more #församlingskoder. In WD we set 
+      <a href="https://www.wikidata.org/wiki/Property:P4390">P4390 mapping relation type</a>  and as qualifier <a href="https://www.wikidata.org/wiki/Q39893967">narrow match</a>        
+  <br /><br /><iframe src="https://goo.gl/qgwWYH" referrerpolicy="origin" sandbox="allow-scripts allow-same-origin allow-popups" width="800" height="400"></iframe>
+       <h4>Församlingar with an enddate</h3>
+        <iframe src="https://tinyurl.com/y8xu3xtd" referrerpolicy="origin" sandbox="allow-scripts allow-same-origin allow-popups" width="800" height="400"></iframe>
+       <h4>Församlingar and NAD no value status</h3>
+        <iframe src="https://tinyurl.com/yaxny6vc" referrerpolicy="origin" sandbox="allow-scripts allow-same-origin allow-popups" width="800" height="400"></iframe>
+    <h3 id="Constraints">Constraint violations </h3>
+        see <a href="https://www.wikidata.org/wiki/Wikidata:Project_chat#You_can_now_query_the_constraint_violations_with_the_Query_Service">Wikidata:Project_chat ...constraint violations WDQS</a> or <a href="https://phabricator.wikimedia.org/T192567">T192567</a>
+       <h4>Errors on a map</h3>
+        <iframe src="https://tinyurl.com/yc3q6f7e" referrerpolicy="origin" sandbox="allow-scripts allow-same-origin allow-popups" width="800" height="400"></iframe>
+       <h4>Nr Errors per P131 administrative unit - bar chart</h3>
+        <iframe src="https://tinyurl.com/y7d2arf9" referrerpolicy="origin" sandbox="allow-scripts allow-same-origin allow-popups" width="800" height="400"></iframe>
+    <h3>WD error reports</h3>
     <ll> 
       <li>Changes to objects that are an instance of wd:Q615980 "Svenska kyrkans församlingar" - <a href="https://tools.wmflabs.org/wikidata-todo/sparql_rc.php?sparql=SELECT+%3Fq++WHERE+%7B%0D%0A++%3Fq+wdt%3AP31+wd%3AQ615980+.%0D%0A%7D&start=last+week&end=&user_lang=&sort_mode=last_edit&no_bots=1">Last week</a>
       <li><b>Database error reports</b>
@@ -52,29 +77,6 @@
       </li>
     </ll>
 
-    <h3>"Församling" - Swedish Church Parish</h3>
-       <h4>"Församlingar" and NAD status</h3>
-        <iframe src="https://goo.gl/CnWz8Z" referrerpolicy="origin" sandbox="allow-scripts allow-same-origin allow-popups" width="800" height="800"></iframe>
-       <h4>WD objects that need a coordinate</h3>
-        <iframe src="https://tinyurl.com/ydh2mnas" referrerpolicy="origin" sandbox="allow-scripts allow-same-origin allow-popups" width="800" height="400"></iframe>
-       <h4>Group by Administrative P131</h3>
-        <iframe src="https://tinyurl.com/ybhbrzt2" referrerpolicy="origin" sandbox="allow-scripts allow-same-origin allow-popups" width="800" height="400"></iframe>       
-       <h4>Coord, Församling and no NAD</h3>
-        <iframe src="https://tinyurl.com/y7m5acvs" referrerpolicy="origin" sandbox="allow-scripts allow-same-origin allow-popups" width="800" height="400"></iframe>
-       <h4>Församlingar with more "församlingskoder"</h3>
-       This concept means that one WD object is represented by more #församlingskoder. In WD we set 
-      <a href="https://www.wikidata.org/wiki/Property:P4390">P4390 mapping relation type</a>  and as qualifier <a href="https://www.wikidata.org/wiki/Q39893967">narrow match</a>        
-  <br /><br /><iframe src="https://goo.gl/qgwWYH" referrerpolicy="origin" sandbox="allow-scripts allow-same-origin allow-popups" width="800" height="400"></iframe>
-       <h4>Församlingar with an enddate</h3>
-        <iframe src="https://tinyurl.com/y8xu3xtd" referrerpolicy="origin" sandbox="allow-scripts allow-same-origin allow-popups" width="800" height="400"></iframe>
-       <h4>Församlingar and NAD no value status</h3>
-        <iframe src="https://tinyurl.com/yaxny6vc" referrerpolicy="origin" sandbox="allow-scripts allow-same-origin allow-popups" width="800" height="400"></iframe>
-    <h3 id="Constraints">Constraint violations </h3>
-        see <a href="https://www.wikidata.org/wiki/Wikidata:Project_chat#You_can_now_query_the_constraint_violations_with_the_Query_Service">Wikidata:Project_chat ...constraint violations WDQS</a> or <a href="https://phabricator.wikimedia.org/T192567">T192567</a>
-       <h4>Errors on a map</h3>
-        <iframe src="https://tinyurl.com/yc3q6f7e" referrerpolicy="origin" sandbox="allow-scripts allow-same-origin allow-popups" width="800" height="400"></iframe>
-       <h4>Nr Errors per P131 administrative unit - bar chart</h3>
-        <iframe src="https://tinyurl.com/y7d2arf9" referrerpolicy="origin" sandbox="allow-scripts allow-same-origin allow-popups" width="800" height="400"></iframe>
  </div> 
  </body>
  </html>
