@@ -7,4 +7,4 @@ Tools for cleaning Wikidata for +3500 Swedish church parishes/Svenska Församlin
 More info
 * [Phabricator project space](https://Phabricator.wikimedia.org/tag/wmse-riksarkivet-tora/)
 * sv:Wikipedia project spage [Wikipedia:Projekt_svenska_församlingar](https://sv.wikipedia.org/wiki/Wikipedia:Projekt_svenska_f%C3%B6rsamlingar)
-* Wikidata projekt page
+* [Wikidata:WikiProject_Swedish_Church_Parishes](https://www.wikidata.org/wiki/Wikidata:WikiProject_Swedish_Church_Parishes)
