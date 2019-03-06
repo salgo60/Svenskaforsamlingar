@@ -10,7 +10,7 @@ see tasks
 * [Task T210062 Add Bygdeband to Wikidata as a Property and match "Församlingar"](https://phabricator.wikimedia.org/T210062) -  site containing local history P6192
 * [Task T201404 familysearch.org create a Proof of Concept with a template](https://phabricator.wikimedia.org/T201404)
 
-* we have created a property for the Swedish National Archive and the NAD number  i.e. we are connecting the NAD number for the church archive with the Wikidata object for the Swedish Parish, the sv:Wikipedia article about the Swedish parish, the SCB Regina number for the Parish.....
+* we have created a property for the Swedish National Archive and the NAD number [P5324](https://www.wikidata.org/wiki/Property_talk:P5324) i.e. we are connecting the NAD number for the church archive with the Wikidata object for the Swedish Parish, the sv:Wikipedia article about the Swedish parish, the [SCB Regina number P778](https://www.wikidata.org/wiki/Property_talk:P778) for the Parish, [Bygdeband P6192](https://www.wikidata.org/wiki/Property_talk:P6192).....
 
 Tools for cleaning Wikidata for +3500 Swedish church parishes/Svenska Församlingar
 
