@@ -1,5 +1,10 @@
 # Svenska församlingar - Swedish church parishes
-In 2018 all Swedish Church parishes had articles in sv:Wikipedia the project moved this data and complemented it see tasks
+In 2018 all Swedish Church parishes had articles in sv:Wikipedia this project moved this data to WIkidata and complemented it 
+
+![Wikidata map](https://phab.wmfusercontent.org/file/data/ictf7qpotka4ba7lqgvx/PHID-FILE-sp52dgz4ahqmqhvwgt2t/SCB2.png)
+![SCB map](https://phab.wmfusercontent.org/file/data/w6owhmmxnqibdlbvkwi4/PHID-FILE-x3dhiz46uappphrdxi4q/image.png)
+
+see tasks
 * [Task T199784 Wikidata cleaning Swedish Church parishes](https://phabricator.wikimedia.org/T199784)
 * [Task T199907 Speak with Arkiv Digital](https://phabricator.wikimedia.org/T199907)
 * [Task T210062 Add Bygdeband to Wikidata as a Property and match "Församlingar"](https://phabricator.wikimedia.org/T210062) -  site containing local history P6192
