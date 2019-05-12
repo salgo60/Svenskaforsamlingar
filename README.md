@@ -1,7 +1,7 @@
 # Svenska församlingar - Swedish church parishes
 In 2018 all Swedish Church parishes had articles in sv:Wikipedia this project moved this data to WIkidata and complemented it
 
-* [Swedish Church parishes](https://salgo60.github.io/Svenskaforsamlingar/index_light.html)
+* [Swedish Church parishes](https://salgo60.github.io/Svenskaforsamlingar/index_light.html) WD query
 
 ![Wikidata map](https://phab.wmfusercontent.org/file/data/ictf7qpotka4ba7lqgvx/PHID-FILE-sp52dgz4ahqmqhvwgt2t/SCB2.png)
 ![SCB map](https://phab.wmfusercontent.org/file/data/w6owhmmxnqibdlbvkwi4/PHID-FILE-x3dhiz46uappphrdxi4q/image.png)
@@ -23,3 +23,4 @@ More info
 * [Phabricator project space](https://phabricator.wikimedia.org/tag/wmse-riksarkivet-tora/)
 * sv:Wikipedia project spage [Wikipedia:Projekt_svenska_församlingar](https://sv.wikipedia.org/wiki/Wikipedia:Projekt_svenska_f%C3%B6rsamlingar)
 * [Wikidata:WikiProject_Swedish_Church_Parishes](https://www.wikidata.org/wiki/Wikidata:WikiProject_Swedish_Church_Parishes)
+* [Task adding genealogy discussion groups to Swedish Administrative parishes](https://phabricator.wikimedia.org/T217548)
