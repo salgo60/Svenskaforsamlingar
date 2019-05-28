@@ -1,0 +1,18 @@
+# Define the schema
+## Schema for a Swedish church parish 
+## one might identify a shape expression to say that 
+## * instances of the class should be wd:Q615980 or a class that is an subclass of (P279) wd:Q615980
+## * inception (P571)
+## * country (P17) Wd:Q34 (Sweden) exceptions !!!
+## * located in present-day administrative territorial entity (P3842) or (P131) located in the administrative territorial entity
+## * diocese (P708)
+## * coordinate location (P625)
+## * optional (P576)
+## * Church of Sweden parish code (P778) from SCB system Regina
+## * NAD (P5324) from "Riksarkvet" the National archive of sweden an archive of type church archives
+## * Maintained by Wiki project (P6104) wd:Q58899083
+## * TORA ID!!?
+
+PREFIX p: <http://www.wikidata.org/prop/>
+PREFIX ps: <http://www.wikidata.org/prop/statement/>
+PREFIX wd: <http://www.wikidata.org/entity/>
