@@ -1,6 +1,6 @@
 # Svenska församlingar - Swedish church parishes
 In 2018 all Swedish Church parishes had articles in sv:Wikipedia this project moved this data to WIkidata and complemented it
-
+* Published at https://salgo60.github.io/Svenskaforsamlingar/
 * [Swedish Church parishes](https://salgo60.github.io/Svenskaforsamlingar/index_light.html) WD query
   * more [maps](https://salgo60.github.io/Svenskaforsamlingar/)
 
