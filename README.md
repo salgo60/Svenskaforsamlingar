@@ -1,3 +1,4 @@
+* Skuggbacklogg [Riksarkivet](https://github.com/salgo60/Svenskaforsamlingar/issues/2) / [Riksarkivet SBL](https://github.com/salgo60/Svenskaforsamlingar/issues/6)
 # Svenska församlingar - Swedish church parishes
 In 2018 all Swedish Church parishes had articles in sv:Wikipedia this project moved this data to WIkidata and complemented it
 * Published at https://salgo60.github.io/Svenskaforsamlingar/
